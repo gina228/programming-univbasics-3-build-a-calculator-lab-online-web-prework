@@ -11,12 +11,15 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-  num1 = 
-  num2 = 
-
+  num1 = 50
+  num2 = 2
+  division = 25
 end
 
 def multiplication(num1, num2)
+  num1 =
+  num2 = 
+  multiplication =
 
 end
 
